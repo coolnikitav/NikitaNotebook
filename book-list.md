@@ -1,6 +1,6 @@
 |    Book Title    |    Grade    |    Date  |
 | :---: | :---: | :---: |
-| [Never Split The Difference(https://github.com/coolnikitav/nikitas-notebook/blob/main/books/never-split-the-difference.md) | A | 2023
+| [Never Split The Difference](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/never-split-the-difference.md) | A | 2023
 | [How to Decide](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/how-to-decide.md) | A | 2022
 | [Principles](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/principles.md) | A | 2022
 | [Blink](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/blink.md) | A |2023
