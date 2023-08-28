@@ -5,4 +5,4 @@ Investment into Lululemon was made on 8/5/2022 at the price of $309. Since then,
 My outlook on Lululemon remains positive as it is strengthening its brand and successfully selling premium products in a period of economic distress.
 
 ## Original Article
-To check out the original article about Lululemon, go to the following link. You will find the reason for investing in this company, its background, and the risks associated with it.
+To check out the original article about Lululemon, go to the following [link](https://github.com/coolnikitav/nikitas-notebook/blob/main/investing/lulu-purchase.md). You will find the reason for investing in this company, its background, and the risks associated with it.
