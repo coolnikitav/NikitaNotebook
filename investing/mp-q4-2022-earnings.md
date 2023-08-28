@@ -8,4 +8,4 @@ Recent earnings report brought positive news. Revenue, production, and sales vol
 
 ## Original article
 
-To check out the original article about MP Materials, go to the following link. You will find the reason for investing in this company, its background, and the risks associated with it.
+To check out the original article about MP Materials, go to the following [link](https://github.com/coolnikitav/nikitas-notebook/blob/main/investing/mp-materials-purchase.md). You will find the reason for investing in this company, its background, and the risks associated with it.
