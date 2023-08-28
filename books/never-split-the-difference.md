@@ -1,0 +1,6 @@
+# Never Split the Difference: Negotiate as if Your Life Depended on It
+## Grading
+This is one the best books I have ever read. It is packed with action, stories, great advice, and practical action that can be applied to every aspect of life. All of the explanations are clear, the book never gets boring, and is truly life changing. Both content and writing get an A.
+
+## Summary
+“Never Split the Difference” by Chris Voss presents a groundbreaking approach to negotiation based on empathy and emotional intelligence. The book emphasizes the importance of understanding and acknowledging the emotions and perspectives of the other party. By practicing “tactical empathy” and employing techniques such as mirroring, labeling, and calibrated questions, negotiators can build rapport, defuse tension, and gather valuable information. Voss shares real-life examples from his career to illustrate the effectiveness of these techniques in various negotiation scenarios. The book challenges traditional negotiation strategies and offers readers a fresh perspective on communication and persuasion. Through practical advice and compelling storytelling, Voss empowers readers to become more effective negotiators, enabling them to achieve successful outcomes in both professional and personal negotiations.
