@@ -2,6 +2,7 @@
 
 ## Results
 Did not enter the trade. SPY did not follow the setup. The day after this post was made, SPY held up above above the support line. Then, it broke through the resistance after hours. I was expecting an entry the following day. However, the stock bounced back with great volume and trended until the next resistance.
+
 ![image](https://github.com/coolnikitav/nikitas-notebook/assets/30304422/b01bc6ef-8ae6-4a44-9d29-9362bed53413)
 
 ## Background
