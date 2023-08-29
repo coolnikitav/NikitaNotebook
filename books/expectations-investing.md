@@ -1,4 +1,7 @@
 # Expectations Investing: Reading Stock Prices for Better Returns
+## Key Takeaways
+- In order to invest well, not only do you have to pick a company that is having a return greater than cost of capital, but their stock price has to be at a discount.
+- During a period of increasing demand, a company that is building additional capacity (factories) will capture the extra demand and returns compared to other companies. However, if all companies increase capacity, their returns will stay the same and then drop when demand goes down.
 ## Grading
 Expectations Investing has great insight on methods of evaluating companies. It breaks down the factors very well and provides concrete examples to show how those factors could affect the price. In addition to simply giving stock evaluating techniques, it gives a couple of memorable, foundational investing principles. Content gets an A.
 
