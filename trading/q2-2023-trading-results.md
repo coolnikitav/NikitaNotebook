@@ -66,4 +66,4 @@ My trading strategy has returned 16.86% for the first three months of 2023. In c
 The month of May really tanked my results. There were a lot of days where the market would rise after/pre-market hours and then fall during regular trading hours. There were also a number of days where I hit the stoploss and the stock recovered.
 
 ## Original Article
-If you are unfamiliar with my trading strategy, please check out the original article.
+If you are unfamiliar with my trading strategy, please check out the [original article](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/spxl-trading-strategy-2.0.md).
