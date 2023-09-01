@@ -52,7 +52,7 @@
 | [Competitive Advantage](https://github.com/coolnikitav/nikita-notebook/blob/main/books/competitive-advantage.md) | C | 2023
 | The Selfish Gene | C | 2018
 | Emotional Intelligence 2.0 | C | 2020
-| Warren Buffett and the Interpretation of Financial Statements | C | 2022
+| Warren Buffett and the Interpretation<br>of Financial Statements | C | 2022
 | Sam Walton | C | 2018
 | Disrupt You! | C | 2018
 | The Fish That Ate the Whale | C | 2019
