@@ -7,14 +7,36 @@
 | [How to Decide](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/how-to-decide.md) | A | 2022
 | [Principles](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/principles.md) | A | 2022
 | [Blink](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/blink.md) | A |2023
+| The Decision Book | A | 2018
+| Salt Sugar Fat | A | 2018
 | [Crashes and Crises](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/crashes-and-crises.md) | B | 2022
+| Awaken the Giant Within | B | 2018
 | [Expectations Investing](https://github.com/coolnikitav/nikita-notebook/blob/main/books/expectations-investing.md) | B | 2023
+| Managing Oneself | B | 2018
+| The ONE Thing | B | 2018
 | [Lords of Finance](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/lords-of-finance.md) | B | 2023
+| How to Win Friends & Influence People | B | 2018
+| The Happiness Hypothesis | B | 2018 |
 | [Fooled by Randomness](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/fooled-by-randomness.md)| B | 2022
+| Riveted | B | 2018
 | [Market Wizards](https://github.com/coolnikitav/nikita-notebook/blob/main/books/market-wizards.md) | C | 2022
+| The Lessons of History | C | 2018
 | [Competitive Advantage](https://github.com/coolnikitav/nikita-notebook/blob/main/books/competitive-advantage.md) | C | 2023
+| The Selfish Gene | C | 2018
+| Sam Walton | C | 2018
+| Disrupt You! | C | 2018
+| The Everything Store | C | 2018
 | [Liar's Poker](https://github.com/coolnikitav/nikita-notebook/blob/main/books/market-wizards.md) | D | 2022
+| Total Recall (by Arnold Schwarzenegger) | D | 2018
+| Michael Jordan | D | 2018
+| The Hiltons | D | 2018
 | [Wired For Story](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/wired-for-story.md) | D | 2023
+| Civilization and Its Discontents | D | 2018
+| Grinding It Out | D | 2018
+| The Story of the Human Body | D | 2018
+| The Greatest Minds and Ideas of All Time | D | 2018
+| When I Stop Talking, You'll Know I'm Dead | D | 2018
+| All Quiet on the Western Front | F | 2018
 
 ### Grading scale:
 
