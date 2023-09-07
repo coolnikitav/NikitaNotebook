@@ -1,5 +1,5 @@
 # Results (as of 11/12/2022)
-This trade was executed on October 12. It is down $877. I am not sure hot to convert it into percentage loss, since both long and short values were $10000 (thus a $0 net position).
+This trade was executed on October 12. It is down $877. I am not sure how to convert it into percentage loss, since both long and short values were $10000 (thus a $0 net position).
 
 VGK is performing better than S&P500. It might be due to the fact that VGK was shorted in the middle of bad news wave. Thus, it was already at a very low value, having more upside potential than S&P500. I am planning on holding this trade until February to see how winter impacts the European market and their energy crisis.
 
