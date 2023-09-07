@@ -18,7 +18,7 @@
 | The Intelligent Investor Rev Ed. | B | 2019
 | Born to Run | B | 2019
 | The Zurich Axioms | B | 2021
-| No One Understands You and What to Do About It | B | 2019
+| No One Understands You and <br>What to Do About It | B | 2019
 | The 7 Habits of Highly Effective People | B | 2019
 | Switch | B | 2019
 | [Crashes and Crises](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/crashes-and-crises.md) | B | 2022
