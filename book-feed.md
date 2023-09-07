@@ -83,13 +83,18 @@
 | The Greatest Minds and Ideas of All Time | D | 2018
 | I Am Ozzy | D | 2019
 | When I Stop Talking, You'll Know I'm Dead | D | 2018
-| The Old Man and the Sea | D | 2019
-| All Quiet on the Western Front | F | 2018
-| Circe | F | 2020
 | President Me | F | 2019
 | The Theory of Everything | F | 2019
 | Beyond Religion | F | 2019
 | The Story of My Experiments with Truth | F | 2019
+
+Fiction books:
+|    Book Title    |   Date  |
+| :---: | :---: |
+| All Quiet on the Western Front | 2018
+| Circe | 2020
+| The Beautiful and Damned | 2022
+| The Old Man and the Sea | 2019
 
 ### Grading scale:
 
