@@ -2,6 +2,7 @@
 | :---: | :---: | :---: |
 | [Never Split The Difference](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/never-split-the-difference.md) | A | 2023
 | [Can't Hurt Me](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/cant-hurt-me.md) | A | 2023
+| [Sapiens](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/sapiens.md) | A | 2023
 | Why We Sleep | A | 2020
 | [Atomic Habits](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/atomic-habits.md) | A | 2023
 | Attached | A | 2019
