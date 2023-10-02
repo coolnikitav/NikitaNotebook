@@ -1,6 +1,6 @@
 # Q2 2023 Trading Results
 ## Results
-My trading strategy has returned 16.86% for the first three months of 2023. In comparison, SPXL itself and SPY have returned 23.40% and 8.42%, respectively. The monthly breakdown is shown below.
+My trading strategy has returned 16.86% for the second three months of 2023. In comparison, SPXL itself and SPY have returned 23.40% and 8.42%, respectively. The monthly breakdown is shown below.
 
 *My Q2 Trading Results*
 <table>
