@@ -92,10 +92,12 @@
 Fiction books:
 |    Book Title    |   Date  |
 | :---: | :---: |
-| All Quiet on the Western Front | 2018
-| Circe | 2020
+| A Tale of Two Cities | 2023
 | The Beautiful and Damned | 2022
+| Circe | 2020
 | The Old Man and the Sea | 2019
+| All Quiet on the Western Front | 2018
+
 
 ### Grading scale:
 
