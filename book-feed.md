@@ -17,6 +17,7 @@
 | Willpower | A | 2019
 | Salt Sugar Fat | A | 2018
 | The Intelligent Investor Rev Ed. | B | 2019
+| [Why Nations Fail](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/why-nations-fail.md) | B | 2023
 | Born to Run | B | 2019
 | The Zurich Axioms | B | 2021
 | No One Understands You and <br>What to Do About It | B | 2019
