@@ -66,8 +66,7 @@ My trading strategy returned 34.1% in the fourth quarter. In comparison, SPXL an
 
 ## Analysis
 
-September still stands to be historically the worst month for the stock market. My strategy has a 4x leverage on SPY, it only performed 2.8
-times worse. On the other hand, SPXL, which has a 3x leverage on SPY, performed 3.7 times worse. Thus, I consider this quarter relatively successful.
+November still stands to be historically the best month for the stock market. My strategy has a 4x leverage on SPY. However, it only had a return 3 times higher than that of SPY and almost the same return as SPXL. This was due to upward premarket moves by the index.
 
 ## Original Article
 If you are unfamiliar with my trading strategy, please check out the [original article](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/spxl-trading-strategy-2.0.md).
