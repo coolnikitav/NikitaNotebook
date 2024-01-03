@@ -2,20 +2,17 @@
 
 ## Results
 
-|       | 2023   |       | Q1    |       | January  | 8.11%   |
-|-------|--------|-------|-------|-------|----------|---------|
-|       | 82.90% |       |       |       | February | 7.27%   |
-|       |        |       |       |       | March    | 11.56%  |
-|       |        |       | Q2    | 16.86% | April    | 4.03%   |
-|       |        |       |       |       | May      | -6.43%  |
-|       |        |       |       |       | June     | 20.05%  |
-|       |        |       | Q3    | -9.79% | July     | 2.40%   |
-|       |        |       |       |       | August   | -0.68%  |
-|       |        |       |       |       | September| -11.30% |
-|       |        |       | Q4    | 34.10% | October  | 4.47%   |
-|       |        |       |       |       | November | 17.87%  |
-|       |        |       |       |       | December | 8.90%   |
+*My trading strategy*
 
+![image](https://github.com/coolnikitav/nikitas-notebook/assets/30304422/ff458ff3-c786-44cc-ac11-1fe9dcda93ad)
+
+*SPXL*
+
+![image](https://github.com/coolnikitav/nikitas-notebook/assets/30304422/c4b6ac75-5b1a-4dee-bebf-5f5dc8a13e4c)
+
+*SPY*
+
+![image](https://github.com/coolnikitav/nikitas-notebook/assets/30304422/6edc4771-b51e-4fad-8db9-dfa5a7ca15a6)
 
 ## Analysis
 
