@@ -75,6 +75,7 @@
 | Anxious | D | 2019
 | Digital Transformation | D | 2020
 | Michael Jordan | D | 2018
+| [Adaptive Markets](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/adaptive-markets.md ) | D | 2024
 | 48 Laws of Power | D | 2020
 | The Hiltons | D | 2018
 | [Wired For Story](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/wired-for-story.md) | D | 2023
