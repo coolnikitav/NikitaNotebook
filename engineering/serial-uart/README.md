@@ -14,3 +14,14 @@ Before writing the code, I must understand how the UART module should function.
 
 ### Design
 I will design a UART with 1 start bit, 8 data bits, 1 odd parity bit, and 1 stop bit.
+
+### Code
+[uart.v](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/serial-uart/uart.v)
+[parity.v](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/serial-uart/parity.v)
+
+### Testing
+[testbench](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/serial-uart/uart_tb.v)
+[waveforms](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/serial-uart/uart_tb_waveform.md)
+
+### Analysis
+The UART module successfully receives messages 
