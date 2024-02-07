@@ -37,5 +37,10 @@ The Basys 3 clock is 100 MHz (10 ns period):
 ```
 create_clock -add -name sys_clk_pin -period 10.00 -waveform {0 5} [get_ports clk]
 ```
-This UART receiver module should sample the incoming serial data at a 9600 baud rate. To provide higher resolution, it will be sampled at 16 times the baud rate, or 153600 Hz. Thus, a clock divider circuit is needed.
+This UART receiver module should sample the incoming serial data at a 9600 baud rate. To provide higher resolution, it will be sampled at 16 times the baud rate, or 153_600 Hz. Thus, a clock divider circuit is needed.
 
+Clock divider code: [clock divider.v](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/serial-uart-receiver/clock_divider.v)
+
+Clock divider testbench: [clock_divider_tb.v](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/serial-uart-receiver/clock_divider_tb.v)
+
+After the reset is switched to 0, the simulation is run for 10_000_000 ns. During that time, clk_div goes through 1538 cycles, resulting in a frequency of 153_800 Hz.
