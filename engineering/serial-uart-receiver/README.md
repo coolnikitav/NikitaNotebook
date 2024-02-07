@@ -1,4 +1,6 @@
-# UART Implementation
+# UART Receiver
+
+## Initial design
 
 ### Goal
 I would like for my FPGA to receive data from my PC. 
@@ -26,4 +28,15 @@ I will design a UART with 1 start bit, 8 data bits, 1 odd parity bit, and 1 stop
 [waveforms](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/serial-uart/uart_tb_waveform.md)
 
 ### Analysis
-The UART module successfully receives messages 
+The UART module successfully receives messages.
+
+## FPGA Integration
+
+Now, since the UART module is successfully receiving sample messages during testing, I will adjust it to work with my Basys 3 FPGA.
+
+The [Basys-3-Master.xdc] constraints file indicates that the FPGA is receiving data through pin B18:
+
+##USB-RS232 Interface
+set_property -dict { PACKAGE_PIN B18   IOSTANDARD LVCMOS33 } [get_ports RsRx]
+
+B18 will be the data bit.
