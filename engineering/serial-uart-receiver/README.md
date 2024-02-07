@@ -9,7 +9,7 @@ I would like for my FPGA to receive data from my PC by developing a UART module 
 Before writing the code, I must understand how the UART receiver module should function.
 
 1. Two wires between transmitter and receiver to communicate in both directions.
-2. Asynchronous - receiver and transmitter do not share a common signal. However, they must transmit at the same speed, have the same frame structure and parameters.
+2. Asynchronous - receiver and transmitter do not share a common signal. However, they must transmit at the same speed, and have the same frame structure and parameters.
 
 ### Design
 I will design a UART with 1 start bit, 8 data bits, 1 odd parity bit, and 1 stop bit.
@@ -24,7 +24,7 @@ The UART module successfully receives messages.
 
 ## FPGA Integration
 
-Now, since the UART module is successfully receiving sample messages during testing, I will adjust it to work with my Basys 3 FPGA.
+Since the UART module is successfully receiving sample messages during testing, I will adjust it to work with my Basys 3 FPGA.
 
 The [Basys-3-Master.xdc] constraints file indicates that the FPGA is receiving data through pin B18:
 ```
@@ -32,3 +32,10 @@ The [Basys-3-Master.xdc] constraints file indicates that the FPGA is receiving d
 set_property -dict { PACKAGE_PIN B18   IOSTANDARD LVCMOS33 } [get_ports RsRx]
 ```
 B18 will be the data bit.
+
+The Basys 3 clock is 100 MHz (10 ns period): 
+```
+create_clock -add -name sys_clk_pin -period 10.00 -waveform {0 5} [get_ports clk]
+```
+This UART receiver module should sample the incoming serial data at a 9600 baud rate. To provide higher resolution, it will be sampled at 16 times the baud rate, or 153600 Hz. Thus, a clock divider circuit is needed.
+
