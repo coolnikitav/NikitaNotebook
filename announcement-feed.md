@@ -1,5 +1,6 @@
 | Announcement | Date |
 | --- | --- |
+| "Relaxation Revolution" book review | [2/19/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/relaxation-revolution.md) |
 | "Adaptive Markets" book review | [1/26/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/adaptive-markets.md )
 | Posted 2023 trading results | [1/3/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/2023-trading-results.md)
 | Pasted 2023 Q4 results | [1/1/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/q4-2023-trading-results.md)
