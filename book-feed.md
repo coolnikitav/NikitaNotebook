@@ -69,6 +69,7 @@
 | The Big Short | C | 2019
 | The Omnivore's Dilemma | C | 2019
 | [Liar's Poker](https://github.com/coolnikitav/nikita-notebook/blob/main/books/market-wizards.md) | D | 2022
+| [Relaxation Revolution](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/relaxation-revolution.md) | D | 2024
 | Total Recall (by Arnold Schwarzenegger) | D | 2018
 | Lying | D | 2019
 | Inheritance | D | 2018
