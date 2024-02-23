@@ -1,6 +1,6 @@
 ///////////////////////////////
 
-class transaction;
+class transaction;  // stores variables used throughout the verification process
   rand bit op;
   bit wr, rd;
   bit [7:0] din, dout;
@@ -13,7 +13,7 @@ endclass
 
 ///////////////////////////////
 
-class generator;
+class generator;  // generates random stimulus
   transaction trans;
   mailbox #(transaction) mbx;  // gen -> drv
   
@@ -42,7 +42,7 @@ endclass
 
 ///////////////////////////////
 
-class driver;
+class driver;  // drives generated stimulus to the dut
   virtual fifo_if fif;
   transaction trans;
   mailbox #(transaction) mbx;  // gen -> drv
@@ -101,7 +101,7 @@ endclass
 
 ///////////////////////////////
 
-class monitor;
+class monitor;  // monitors design activity
   virtual fifo_if fif;
   transaction trans;
   mailbox #(transaction) mbx;  // mon -> sco
@@ -113,7 +113,7 @@ class monitor;
   task run();
     trans = new();
     forever begin
-      repeat(2) @(posedge fif.clk);
+      repeat(2) @(posedge fif.clk);  // sync with driver
       trans.wr = fif.wr;
       trans.rd = fif.rd;
       trans.din = fif.din;
@@ -130,7 +130,7 @@ endclass
 
 ///////////////////////////////
 
-class scoreboard;
+class scoreboard;  // compares actual and expected outputs
   transaction trans;
   mailbox #(transaction) mbx;  // mon-> sco
   
@@ -184,7 +184,7 @@ endclass
 
 ///////////////////////////////
 
-class environment;
+class environment;  // combines all verification modules
   virtual fifo_if fif;
   
   generator gen;
