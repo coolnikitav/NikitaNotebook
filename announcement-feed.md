@@ -1,5 +1,6 @@
 | Announcement | Date |
 | --- | --- |
+| 16B FIFO Memory Design + Verification | [2/23/2024](https://github.com/coolnikitav/nikitas-notebook/tree/main/engineering/fifo) |
 | "Relaxation Revolution" book review | [2/19/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/relaxation-revolution.md) |
 | "Adaptive Markets" book review | [1/26/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/adaptive-markets.md )
 | Posted 2023 trading results | [1/3/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/2023-trading-results.md)
