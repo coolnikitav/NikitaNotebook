@@ -48,7 +48,7 @@
 | The Lessons of History | C | 2018
 | How to Talk to Anyone | C | 2019
 | The Charisma Myth | C | 2021
-| Why Beautiful People Have More Daughters | C | 2019
+| [Why Beautiful People Have More Daughters](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/why-beautiful-people-have-more-daughters.md) | C | 2019
 | Talking to Strangers | C | 2019
 | Antifragile | C | 2019
 | Misbehaving | C | 2019
