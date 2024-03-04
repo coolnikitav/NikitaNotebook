@@ -7,6 +7,8 @@
 - People don't learn to be racist and ethnocentric through socialization, they learn how not to be. All humans are born with a preference for their own kind. They learn to put those biases aside as the grow up.
 
 ## Feedback
+I read this book for the first time in 2019. I am rereading it in 2024.
+
 I find evolution psychology books to be very interesting. "Why Beautiful People Have More Daughters" was an engaging read. The author discussed controversial topics by providing good reasoning and backing his claims up with studies.
 This book can definitely open some good conversations.
 
