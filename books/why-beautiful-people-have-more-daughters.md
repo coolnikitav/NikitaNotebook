@@ -14,3 +14,5 @@ There are a lot of good points made about the differences between men and women,
 For example, the author makes several claims along the lines of "Rich people have more boys because it is more advantageous for a man than for a woman to have more resources". He backs this claim up with a study, where
 58% of kids of rich people observed were boys. While it is generally true that it is more advantageous for a male than a female to have lots of resources to attract a mate, there is simply no proof that your posessions can
 have any effect on your genes and on the gender of your offspring. Thus, I cannot accept this argument because the authors evidence is not sufficient.
+
+This book was very interesting. However, due to a large number of arguments with insufficient evidence, *Why Beautiful People Have More Daughters* receives a C.
