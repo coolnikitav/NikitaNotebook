@@ -1,5 +1,6 @@
 | Announcement | Date |
 | --- | --- |
+| "Why Beautiful People Have More Daughters" book review | [3/4/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/why-beautiful-people-have-more-daughters.md)
 | 16B FIFO Memory Design + Verification | [2/23/2024](https://github.com/coolnikitav/nikitas-notebook/tree/main/engineering/fifo) |
 | "Relaxation Revolution" book review | [2/19/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/relaxation-revolution.md) |
 | "Adaptive Markets" book review | [1/26/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/adaptive-markets.md )
