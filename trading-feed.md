@@ -1,5 +1,6 @@
 | Summary | Ticker | Date |
 | :--- | :---: | :---: |
+| Q1 2024 Trading Results. | [SPY](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/q1-2024-trading-results.md) | 4/1/2024
 | 2023 Trading Results. | [SPY](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/2023-trading-results.md) | 1/3/2024
 | Q4 2023 Trading Results. | [SPY](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/q4-2023-trading-results.md) | 1/1/2024
 | Q3 2023 Trading Results. | [SPY](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/q3-2023-trading-results.md) | 10/2/2023
