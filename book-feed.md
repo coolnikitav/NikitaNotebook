@@ -6,6 +6,7 @@
 | Why We Sleep | A | 2020
 | [Atomic Habits](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/atomic-habits.md) | A | 2023
 | Attached | A | 2019
+| [Make It Stick](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/make-it-stick.md) | A | 2024
 | [Rest](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/rest.md) | A | 2023
 | The Inner Game of Tennis | A | 2022
 | [How to Decide](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/how-to-decide.md) | A | 2022
