@@ -5,6 +5,7 @@
 - Design: [decode.v](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/decode/decode.v)
 - Testbench: [decode_tb.sv](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/decode/decode_tb.sv)
 - Reference model: [e_w_control_pkg.sv](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/decode/e_w_control_pkg.sv)
+- Simulation output: [simulation-output.md](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/decode/simulation-output.md)
   
 ### LC3 Decode Behavior
 - On reset, all outputs go to logic 0
