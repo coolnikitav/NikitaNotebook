@@ -19,12 +19,12 @@ Each of the folders have specifications, intended module behavior, schematics, d
 - [Controller - Combines the 4 modules into a full processor](https://github.com/coolnikitav/nikitas-notebook/tree/5ba684eed46259b160b7792295dfdfa551b46786/engineering/lc3-controller-project1/controller)
 
 ## Skills
-- The design files were written in verilog.
 - Testbenches we written in SystemVerilog.
 - Testbenches utilized:
   - Random stimulus
   - Functional coverage: interface, transaction, generator, driver, monitor, scoreboard, environment
   - Assertion-based verification methodologies
+- The design files were written in Verilog.
 - Required understanding of pipelines and uniprocessor architecture.
 
 ## Challenges
