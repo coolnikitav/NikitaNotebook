@@ -9,7 +9,7 @@ List of the simplifications compared to the full LC-3:
 - The processor is unpipelined and does not address pipeline issues like control and data dependence.
 
 ## Modules
-The LC-3 Controller consists of 4 modules: Fetch, Decoce, Execute, Writeback. I have designed and verified each of these components individually. Then I combined them into a main controller design and verified that all 5 stages of the pipeline work cohesively. 
+The LC-3 Controller consists of 4 modules: Fetch, Decoce, Execute, Writeback. Components were designed and verified individually. Then they were combined them into a main controller design and it was verified that all 5 stages of the pipeline work cohesively. 
 
 Each of the folders have specifications, behavior, schematics, design files, testbench files, and simulation outputs:
 - [Fetch](https://github.com/coolnikitav/nikitas-notebook/tree/5ba684eed46259b160b7792295dfdfa551b46786/engineering/lc3-controller-project1/fetch)
