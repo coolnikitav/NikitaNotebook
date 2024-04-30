@@ -1,19 +1,6 @@
 # LC3 Decode
 ![image](https://github.com/coolnikitav/coding-lessons/assets/30304422/7c066fab-c53f-47ef-8576-4670afd42fcb)
 
-### Inputs
-- clock
-- reset
-- npc_in
-- enable_decode
-- IMem_dout
-
-### Outputs
-- IR
-- npc_out
-- W_Control
-- E_Control
-
 ### LC3 Decode Behavior
 - On reset, all outputs go to logic 0
 - npc_out is equal to npc_in (passing to execute unit)
