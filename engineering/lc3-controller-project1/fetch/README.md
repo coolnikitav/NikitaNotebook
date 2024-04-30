@@ -1,19 +1,6 @@
 # LC3 Fetch
 ![image](https://github.com/coolnikitav/coding-lessons/assets/30304422/ededf866-5fda-4685-9657-f4175535e364)
 
-### Inputs
-- clock
-- reset
-- enable_updatePC
-- enable_fetch
-- taddr
-- br_taken
-
-### Outputs
-- npc
-- pc
-- Imem_rd
-
 ### LC3 Fetch Behavior:
 - On reset: pc = 3000, npc = 3001
 - If br_taken = 1, PC = taddr, else PC = PC+1
