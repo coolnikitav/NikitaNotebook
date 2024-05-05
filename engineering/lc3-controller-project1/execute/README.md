@@ -2,6 +2,20 @@
 
 ![image](https://github.com/coolnikitav/coding-lessons/assets/30304422/1df20a5d-6430-46d2-bd57-5092fea76004)
 
+## Design and Verification
+- Extension:
+  - Design: [extension.v](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/execute/extension.v)
+  - Testbench: [extension_tv.sv](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/execute/extension_tb.sv)
+  - Simulation output: [extension-simulation-output.md](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/execute/extension_simulation_output.md)
+- ALU:
+  - Design: [alu_control.v](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/execute/alu_control.v)
+  - Testbench: [alu_control_tb.v]()
+  - Simulation output: [alu-simulation-output.md](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/execute/alu_simulation_output.md)
+- Execute:
+  - Design: [execute.v](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/execute/execute.v)
+  - Testbench: [execute_tb.sv](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/execute/execute_tb.sv)
+  - Simulation output: [execute-simulation-output.md](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/execute/execute_simulation_output.md)
+
 ## LC3 Execute Behavior
 - sr1 & sr2 = source register addresses
 - VSR1 & VSR2 = values of RF[sr1] & RF[sr2] created asynchronously in Writeback
