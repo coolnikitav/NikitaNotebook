@@ -1,5 +1,6 @@
 | Announcement | Date |
 | --- | --- |
+| LC3 Project 1 Design + Verification | [5/1/2024](https://github.com/coolnikitav/nikitas-notebook/tree/main/engineering/lc3-controller-project1)
 | "Make It Stick" book review | [4/25/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/make-it-stick.md)
 | Posted 2024 Q1 trading results | [4/1/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading/q1-2024-trading-results.md)
 | "Why Beautiful People Have More Daughters" book review | [3/4/2024](https://github.com/coolnikitav/nikitas-notebook/blob/main/books/why-beautiful-people-have-more-daughters.md)
