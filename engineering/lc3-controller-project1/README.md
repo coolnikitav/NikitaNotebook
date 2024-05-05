@@ -18,7 +18,7 @@ List of the simplifications compared to the full LC-3:
 The LC-3 Controller consists of 4 modules: Fetch, Decoce, Execute, Writeback. Components were designed and verified individually. Then they were combined them into a main controller design and it was verified that all 5 stages of the pipeline work cohesively. 
 
 Each of the folders have specifications, intended module behavior, schematics, design files, testbench files, and simulation outputs:
-- [Fetch](https://github.com/coolnikitav/nikitas-notebook/tree/5ba684eed46259b160b7792295dfdfa551b46786/engineering/lc3-controller-project1/fetch)
+- [Fetch](https://github.com/coolnikitav/nikitas-notebook/tree/main/engineering/lc3-controller-project1/fetch)
 - [Decode](https://github.com/coolnikitav/nikitas-notebook/tree/5ba684eed46259b160b7792295dfdfa551b46786/engineering/lc3-controller-project1/decode)
 - [Execute](https://github.com/coolnikitav/nikitas-notebook/tree/5ba684eed46259b160b7792295dfdfa551b46786/engineering/lc3-controller-project1/execute)
 - [Writeback](https://github.com/coolnikitav/nikitas-notebook/tree/5ba684eed46259b160b7792295dfdfa551b46786/engineering/lc3-controller-project1/writeback)
