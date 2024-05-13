@@ -1,6 +1,13 @@
 # LC3 Controller
 ![image](https://github.com/coolnikitav/coding-lessons/assets/30304422/6709a018-5cc2-4024-8da9-2f176df188a4)
 
+## Design and Verification
+- Controller:
+  - Design: [controller.v](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/controller/controller.v)
+  - Testbench: [controller_tb.sv](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/controller/controller_tb.sv)
+  - Simulation output: [controller_simulation_output.md](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/controller/controller_simulation_output.md)
+  - Simulation waveforms: [controller_tb_waveform](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering/lc3-controller-project1/controller/controller_tb_waveform.md)
+
 ## LC3 Behavior
 - This project addresses ALU (ADD, NOT, AND) and Memory (LEA) operations. All of these instructions take 5 clock cycles
 - LC3 is unpipelined. Each instruction goes through 5 cycles: Fetch -> Decode -> Execute -> Writeback -> UpdatePC
