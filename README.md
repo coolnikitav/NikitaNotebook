@@ -21,5 +21,3 @@ Corrections, criticism, and topic discussions are welcomed!
 ### Contact info:
 
 coolnikitav@gmail.com
-
-[My LinkedIn](https://www.linkedin.com/in/nikita-varfolomeev/)
