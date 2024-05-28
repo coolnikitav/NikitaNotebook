@@ -12,7 +12,7 @@ endinterface
 ///////////////////////
 
 package op_pkg;
-    typedef enum { ball, update_br_taken, update_br_nt_taken, no_update, reset } op_t;
+    typedef enum { update_br_taken, update_br_nt_taken, no_update, reset } op_t;
 endpackage
 
 import op_pkg::*;
