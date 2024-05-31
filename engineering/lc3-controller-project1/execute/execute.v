@@ -59,8 +59,12 @@ module execute(
         endcase
     end
     
-    always @ (*) begin
-        pcout = pcout1 + pcout2;
+    always @ (posedge clk) begin
+        if (rst) begin
+            pcout <= 16'h0;
+        end else begin
+            pcout <= pcout1 + pcout2;
+        end
     end
     
     /*
@@ -90,9 +94,8 @@ module execute(
      */ 
     always @ (posedge clk) begin
         if (rst == 1'b1) begin
-            W_control_out <= 16'h0;
+            W_control_out <= 2'h0;
             dr            <= 3'h0;
-            pcout         <= 16'h0;
         end else if (enable_execute == 1'b1) begin
             W_control_out <= W_control_in;
             dr            <= IR[11:9];            
