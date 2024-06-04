@@ -6,9 +6,6 @@ The most active channel so far is about books. You can check out the book review
  of the books do not have a review. I hope this is 
 a good starting point for people getting into reading. You can check out the best books I have read. Save yourself some time searching and going through the junk!
 
-[engineering-feed](https://github.com/coolnikitav/nikitas-notebook/blob/main/engineering-feed.md) is for engineering projects I work on. I am an electrical engineer, who is
-currently specializing in ASIC/FPGA and embedded software disciplines.
-
 [trading-feed](https://github.com/coolnikitav/nikitas-notebook/blob/main/trading-feed.md) is for my trades, strategies, and results.
 
 [investing-feed](https://github.com/coolnikitav/nikitas-notebook/blob/main/investing-feed.md) is for my investments and company valuations. I have paused posting to this feed for now
